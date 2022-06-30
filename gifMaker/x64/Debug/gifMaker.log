@@ -1,0 +1,7 @@
+﻿  prog.c
+C:\Users\Nehorai\source\repos\gifMaker\gifMaker\prog.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Nehorai\source\repos\gifMaker\gifMaker\prog.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\Nehorai\source\repos\gifMaker\gifMaker\prog.c(30,14): warning C4013: 'loadProject' undefined; assuming extern returning int
+C:\Users\Nehorai\source\repos\gifMaker\gifMaker\prog.c(89,15): warning C4013: 'saveProject' undefined; assuming extern returning int
+  gifMaker.vcxproj -> C:\Users\Nehorai\source\repos\gifMaker\x64\Debug\gifMaker.exe
