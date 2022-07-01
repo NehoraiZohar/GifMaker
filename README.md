@@ -71,5 +71,4 @@ SOFTWARE.
 ## Author Info
 
 - Github - [@NehoraiZohar](https://github.com/NehoraiZohar)
-- Discord - [MonsterStyle#3311](https://discord.com)                                                                      .
-[Back To The Top](#read-me-template)
+- Discord - [MonsterStyle#3311](https://discord.com)
